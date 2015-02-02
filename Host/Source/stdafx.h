@@ -82,6 +82,7 @@
  * Compiler-specific headers
  */
 #include <comdef.h>
+#include <tchar.h>
 #include <strsafe.h>
 #include <crtdbg.h>
 
